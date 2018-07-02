@@ -1,0 +1,8 @@
+<litepal>
+    <dbname values="cool_weather" />
+    <list>
+        <mapping class="db.Province" />
+        <mapping class="db.City" />
+        <mapping class="db.County" />
+    </list>
+</litepal>
